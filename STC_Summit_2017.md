@@ -96,7 +96,7 @@
 - Listeners feel empathy when they hear personal stories
 - Helps your team keep users in mind
 
-** => "User first" mentality **
+**=> "User first" mentality**
 
 ## Share your wins, too
 *People like being part of a winning effort*
@@ -104,7 +104,7 @@
 - Creates a user-first team mentality
 - Replenishes goodwill
 
-** => "Team Winning Spirit" **
+**=> "Team Winning Spirit"**
 
 ## Use goodwill wisely
 - It's a finite resource
@@ -114,10 +114,10 @@
 # 3. Meet users' needs
 ## Hierarchy of API user needs
 - search
--	simple organization
--		guidance on high-level design
--			code samples and tutorials
--				complete and accurate API reference
+- simple organization
+- guidance on high-level design
+- code samples and tutorials
+- complete and accurate API reference
 				
 
 ## Information Architecture
@@ -214,7 +214,7 @@
 ## IoT at SAS
 - Industry-level data analysis
   - e.g. oil/gas extraction, water usage monitoring, truck manufacturing
-- *Presenter writes document for **Event Stream Processing (ESP)** *
+- Presenter writes document for **Event Stream Processing (ESP)**
 
 # SAS Event Stream Processing (ESP)
 - Set of programming tools to build applications that process and analyze streaming data (events)
@@ -240,7 +240,7 @@
 - Verbose sentences
 - Ambiguous diagram
 
-** => need storytelling **
+**=> need storytelling**
 
 # Measures for document overhaul
 
@@ -283,7 +283,7 @@
   - **YARN, Apache Camel**
 - constantly ask questions
 
-** => research, attempt to understand --> trust/respect **
+**=> research, attempt to understand --> trust/respect**
 
 # What story emerges?
 
